@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @himaja
 - 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on React projects
 - 📫 How to reach me : himajasita10@gmail.com
 
